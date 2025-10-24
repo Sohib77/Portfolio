@@ -6,8 +6,6 @@ format:
     toc-location: left
 ---
 
-# Sokhibjon Otabaev
-
 ## Bio
 I am an Accounting and Management graduate who is currently pursuing a Master of Business Administration (MBA). My academic background has provided a solid foundation in business strategy, finance, and organizational leadership, strengthening my analytical and decision-making skills.​
 
